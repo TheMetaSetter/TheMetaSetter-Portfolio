@@ -94,11 +94,21 @@ export const BLOG_POSTS: BlogPost[] = [
     link: '/blog/exploring-the-intersection-of-design-ai-and-design-engineering',
     uid: 'blog-1',
   },
+  {
+    title: '💀',
+    description: 'This is my first blog',
+    link: '/blog/my-first-blog',
+    uid: 'blog-2',
+  },
 ]
 
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'GitHub',
     link: 'https://github.com/github',
+  },
+  {
+    label: 'LinkedIn',
+    link: 'https://www.linkedin.com/in/themetasetter/',
   },
 ]
